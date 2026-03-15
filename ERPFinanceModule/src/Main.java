@@ -1,6 +1,6 @@
 import javax.swing.*;
 
-public class Main {
+public class Index {
     public static void main(String[] args) {
         // Set Look and Feel to system default
         try {
