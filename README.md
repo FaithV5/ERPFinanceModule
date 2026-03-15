@@ -13,6 +13,11 @@ A simple ERP Finance Module built with Java and Supabase.
 - Java Swing (GUI)
 - Supabase (PostgreSQL database)
 
+## Requirements
+- Java 23 or higher
+- PostgreSQL JDBC driver (included in lib/)
+
+
 ## Setup Instructions
 1. Import project to Visual Studio
 2. Add PostgreSQL JDBC driver to build path
